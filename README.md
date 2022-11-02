@@ -8,4 +8,4 @@
 We have built a body fat prediction model using lasso regression and hyperparameter tuning. We are doing all of this while using sklearn for  tasks such as data cleaning, feature engineering, data visualization and model evaluation. Hyperparameter tuning was used to great effect in building our regressor. We have reached a maximum RMSE score of 0.50 for our Lasso regressor.
 
 ## Medium Article
-https://medium.com/@nandangrover/heart-disease-detection-using-fastai-and-sklearn-a27df70ed19f
+https://medium.com/@nandangrover/lasso-regression-and-hyperparameter-tuning-using-sklearn-885c78a37a70
