@@ -1,5 +1,5 @@
 <p align="center">
-<img  alt="animatedgif.me" height="275px" width="490px" src="https://i.ytimg.com/vi/pNaCrhxmN1w/maxresdefault.jpg](https://anderfernandez.com/wp-content/uploads/2021/10/Tutorial-Sklearn.jpg">
+<img  alt="animatedgif.me" height="275px" width="490px" src="https://anderfernandez.com/wp-content/uploads/2021/10/Tutorial-Sklearn.jpg">
 </p>
 
 <h3 align="center"> Lassor regression and Hyperparameter tuning using sklearn</h3>
